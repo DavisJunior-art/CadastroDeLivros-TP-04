@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cadastro de Livros</string>
+    <string name="title_required">Digite o título do livro</string>
+    <string name="author_required">Digite o nome do autor</string>
+</resources>
